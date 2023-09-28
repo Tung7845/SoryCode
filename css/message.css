@@ -1,0 +1,33 @@
+:root {
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+  color: rgb(90, 85, 85);
+}
+body {
+  background-image: url("../img/pexels-luis-quintero-2146553.jpg");
+  background-size: cover; /* Đảm bảo hình nền sẽ che kín phần nền của body */
+  background-repeat: no-repeat; /* Ngăn lặp lại hình nền */
+  height: 100%;
+}
+.image-bg {
+  width: 100%;
+  height: 100%;
+}
+.container {
+  width: 70%;
+  margin: 80px auto;
+  color: rgb(67, 65, 65);
+}
+
+h3 {
+  display: inline;
+  font-size: 26px;
+  font-weight: 700;
+}
+span {
+  font-weight: 400;
+}
+
+#container-title {
+  margin: 30px auto;
+}
